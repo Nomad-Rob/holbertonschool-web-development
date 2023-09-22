@@ -25,10 +25,10 @@ For this project, we expect you to look at these concepts:
 
 ## Objectives
 This will be the end goal eventually, but for now we will start with the basics.
-![image info](./assets/image1.jpg)
+![image info](/assets/image1.jpg)
 
 The HTML page will be displayed similar to this:
-![image info](./assets/imgag2.jpg)
+![image info](/assets/imgag2.jpg)
 
 See you next time!
 ```
