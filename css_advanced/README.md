@@ -24,6 +24,18 @@ For this project, we expect you to look at these concepts:
 - CSS - Font Weight
 - CSS - Font Style
 
+exporting images from figma file:
+
+1. open design file in Figma app
+
+2. The left hand nav pane, select the image or element you want to export
+
+3. The right hand nav pane, click the + on the 'export' tab
+
+4. Name the image whatever your corresponding index.html expects (or alternatively edit the index)
+
+5. Move the image into your project folder at the relative path your index is looking
+
 ## General
 
 - What is CSS
@@ -36,10 +48,7 @@ For this project, we expect you to look at these concepts:
 
 ## Objectives
 This will be the end goal eventually, but for now we will start with the basics.
-![image info](/assets/image1.jpg)
-
-The HTML page will be displayed similar to this:
-![image info](/assets/imgag2.jpg)
+![Alt text](css_advanced/assests/image1.jpg?raw=true "CSS")
 
 See you next time!
 ```

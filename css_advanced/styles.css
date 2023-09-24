@@ -1,0 +1,13 @@
+/* Header and first section of the page before quote*/
+body {
+    background-color: #FFFFFF;
+    width: 1440px;
+    height: 3718px
+}
+
+.header-banner-background {
+    background-image: url("assests/background.png"); /* from figma export */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
