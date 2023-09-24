@@ -48,7 +48,7 @@ exporting images from figma file:
 
 ## Objectives
 This will be the end goal eventually, but for now we will start with the basics.
-![Alt text](css_advanced/assests/image1.jpg?raw=true "CSS")
+![CSS](https://raw.githubusercontent.com/Nomad-Rob/holbertonschool-web-development/blob/main/css_advanced/assests/image1.jpg)
 
 See you next time!
 ```
