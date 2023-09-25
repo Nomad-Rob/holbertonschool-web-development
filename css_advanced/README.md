@@ -48,7 +48,12 @@ exporting images from figma file:
 
 ## Objectives
 This will be the end goal eventually, but for now we will start with the basics.
-![CSS](https://raw.githubusercontent.com/Nomad-Rob/holbertonschool-web-development/blob/main/css_advanced/assests/image1.jpg)
+![image](./assests/image1.jpg)
+
+WIll be using this figma file to get the design for the page.
+[figma file](https://www.figma.com/file/0ZyezqRr0B0DLSdY3J5XGh/Holberton-School---0x0C-Webstack-CSS-Advanced?node-id=0%3A1)
+
+DEMO of the final product
 
 See you next time!
 ```
