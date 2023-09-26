@@ -51,9 +51,11 @@ This will be the end goal eventually, but for now we will start with the basics.
 ![image](./assests/image1.jpg)
 
 WIll be using this figma file to get the design for the page.
-[figma file](https://www.figma.com/file/0ZyezqRr0B0DLSdY3J5XGh/Holberton-School---0x0C-Webstack-CSS-Advanced?node-id=0%3A1)
+[figma file](https://www.figma.com/file/XrEAsu1vQj5fhVaNG38d2W/Homepage?node-id=0%3A1&mode=dev)
 
 DEMO of the final product
+
+https://nomad-rob.github.io/holbertonschool-web-development/
 
 See you next time!
 ```
