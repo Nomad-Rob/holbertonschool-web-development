@@ -1,0 +1,16 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore IDE specific files
+.idea/
+*.swp
+*.swo
+*.swn
+.DS_Store
+
+# Ignore build output
+/dist
+/build
